@@ -1,0 +1,27 @@
+Loading training data...
+Loading test data...
+Loading test labels...
+
+Training architecture: [512]
+Epoch 0, Loss: 0.0833
+Epoch 10, Loss: 0.0173
+Epoch 20, Loss: 0.0106
+Epoch 30, Loss: 0.0079
+Epoch 40, Loss: 0.0065
+Epoch 50, Loss: 0.0055
+Epoch 60, Loss: 0.0048
+Epoch 70, Loss: 0.0042
+Epoch 80, Loss: 0.0038
+Epoch 90, Loss: 0.0034
+
+Training architecture: [512, 256]
+Epoch 0, Loss: 0.1060
+Epoch 10, Loss: 0.0392
+Epoch 20, Loss: 0.0194
+Epoch 30, Loss: 0.0127
+Epoch 40, Loss: 0.0095
+Epoch 50, Loss: 0.0077
+Epoch 60, Loss: 0.0065
+Epoch 70, Loss: 0.0056
+Epoch 80, Loss: 0.0049
+Epoch 90, Loss: 0.0044

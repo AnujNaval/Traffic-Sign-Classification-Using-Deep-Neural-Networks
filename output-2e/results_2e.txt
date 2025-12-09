@@ -1,0 +1,31 @@
+Loading training data...
+Loading test data...
+Loading test labels...
+
+Training architecture: [512] with ReLU activation
+Epoch 0, Loss: 0.0484, Learning Rate: 0.010000
+Epoch 10, Loss: 0.0078, Learning Rate: 0.003015
+Epoch 20, Loss: 0.0056, Learning Rate: 0.002182
+Epoch 30, Loss: 0.0046, Learning Rate: 0.001796
+Epoch 40, Loss: 0.0040, Learning Rate: 0.001562
+
+Training architecture: [512, 256] with ReLU activation
+Epoch 0, Loss: 0.0487, Learning Rate: 0.010000
+Epoch 10, Loss: 0.0049, Learning Rate: 0.003015
+Epoch 20, Loss: 0.0032, Learning Rate: 0.002182
+Epoch 30, Loss: 0.0025, Learning Rate: 0.001796
+Epoch 40, Loss: 0.0021, Learning Rate: 0.001562
+
+Training architecture: [512, 256, 128] with ReLU activation
+Epoch 0, Loss: 0.0506, Learning Rate: 0.010000
+Epoch 10, Loss: 0.0034, Learning Rate: 0.003015
+Epoch 20, Loss: 0.0021, Learning Rate: 0.002182
+Epoch 30, Loss: 0.0016, Learning Rate: 0.001796
+Epoch 40, Loss: 0.0013, Learning Rate: 0.001562
+
+Training architecture: [512, 256, 128, 64] with ReLU activation
+Epoch 0, Loss: 0.0529, Learning Rate: 0.010000
+Epoch 10, Loss: 0.0029, Learning Rate: 0.003015
+Epoch 20, Loss: 0.0017, Learning Rate: 0.002182
+Epoch 30, Loss: 0.0011, Learning Rate: 0.001796
+Epoch 40, Loss: 0.0009, Learning Rate: 0.001562

@@ -1,0 +1,75 @@
+Loading training data...
+Loading test data...
+Loading test labels...
+
+Training network with 1 hidden units...
+Epoch 0, Loss: 0.1157
+Epoch 10, Loss: 0.1000
+Epoch 20, Loss: 0.0982
+Epoch 30, Loss: 0.0971
+Epoch 40, Loss: 0.0963
+Epoch 50, Loss: 0.0956
+Epoch 60, Loss: 0.0951
+Epoch 70, Loss: 0.0948
+Epoch 80, Loss: 0.0944
+Epoch 90, Loss: 0.0941
+Hidden Units: 1
+Train F1: 0.0229, Test F1: 0.0230
+
+Training network with 5 hidden units...
+Epoch 0, Loss: 0.1066
+Epoch 10, Loss: 0.0739
+Epoch 20, Loss: 0.0625
+Epoch 30, Loss: 0.0555
+Epoch 40, Loss: 0.0506
+Epoch 50, Loss: 0.0467
+Epoch 60, Loss: 0.0439
+Epoch 70, Loss: 0.0417
+Epoch 80, Loss: 0.0400
+Epoch 90, Loss: 0.0386
+Hidden Units: 5
+Train F1: 0.4260, Test F1: 0.3722
+
+Training network with 10 hidden units...
+Epoch 0, Loss: 0.1021
+Epoch 10, Loss: 0.0529
+Epoch 20, Loss: 0.0387
+Epoch 30, Loss: 0.0314
+Epoch 40, Loss: 0.0269
+Epoch 50, Loss: 0.0238
+Epoch 60, Loss: 0.0215
+Epoch 70, Loss: 0.0197
+Epoch 80, Loss: 0.0183
+Epoch 90, Loss: 0.0172
+Hidden Units: 10
+Train F1: 0.8091, Test F1: 0.6626
+
+Training network with 50 hidden units...
+Epoch 0, Loss: 0.0889
+Epoch 10, Loss: 0.0260
+Epoch 20, Loss: 0.0158
+Epoch 30, Loss: 0.0117
+Epoch 40, Loss: 0.0094
+Epoch 50, Loss: 0.0079
+Epoch 60, Loss: 0.0069
+Epoch 70, Loss: 0.0062
+Epoch 80, Loss: 0.0055
+Epoch 90, Loss: 0.0051
+Hidden Units: 50
+Train F1: 0.9786, Test F1: 0.8321
+
+Training network with 100 hidden units...
+Epoch 0, Loss: 0.0846
+Epoch 10, Loss: 0.0204
+Epoch 20, Loss: 0.0123
+Epoch 30, Loss: 0.0091
+Epoch 40, Loss: 0.0073
+Epoch 50, Loss: 0.0062
+Epoch 60, Loss: 0.0054
+Epoch 70, Loss: 0.0048
+Epoch 80, Loss: 0.0043
+Epoch 90, Loss: 0.0039
+Hidden Units: 100
+Train F1: 0.9804, Test F1: 0.8514
+
+Best performance with 100 hidden units
